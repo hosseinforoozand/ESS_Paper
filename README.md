@@ -1,4 +1,4 @@
-# ESSpaper: Minimizing Loss of Unique Information in High-density Raingauge Network Design for Small Ungauged Mountainous Watershed
+# ESS paper: Minimizing Loss of Unique Information in High-density Raingauge Network Design for Small Ungauged Mountainous Watershed
 
 ## Authors
 Hossein Foroozand¹, Steven V. Weijs¹
